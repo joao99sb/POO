@@ -1,7 +1,4 @@
- 
-
 #include <iostream>
-
 
 class Aviao{
   private:
