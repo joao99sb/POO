@@ -1,0 +1,7 @@
+#ifndef VEICULO_H_INCLUDED
+#define VEICULO_H_INCLUDED
+
+
+
+
+#endif // VEICULO_H_INCLUDED
